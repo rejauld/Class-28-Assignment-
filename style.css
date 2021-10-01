@@ -1,0 +1,124 @@
+body, h1, h2, h3, h4, h5, h6, a, p, span{
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+.navbar-brand img{
+    width: 70px;
+}
+
+
+/* This is me Section */
+
+.me-section{
+    background: #f9f9f9;
+}
+
+.me-button{
+    background: #8490ff;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.me-detail{
+    margin-top: 10rem;
+}
+
+
+/* About me Section */
+
+.about-button{
+    background: #8490ff;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.about-detail{
+    margin-top: 5rem;
+}
+
+
+
+
+/* Number counter section */
+
+.counter-section{
+    background: #8490ff;
+}
+
+.number-item{
+    color: #fff;
+}
+
+
+
+/* pricing-section */
+
+.pricing-section{
+    background: #f9f9ff;
+}
+
+.price-item{
+    background: #fff;
+    box-shadow: 1px 1px 11px rgba(0, 0, 0, .1);
+}
+
+.price-item h2{
+    background: #f9f9ff;
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    line-height: 80px;
+    display: inline-block;
+}
+
+.price-detail ul{
+    list-style: none;
+    line-height: 3.6rem;
+}
+.price-button button{
+    box-shadow: 1px 1px 11px rgba(53, 193, 248, 0.3);
+}
+
+
+
+/* Teem section */
+
+.teem-section{}
+.teem-item{
+    margin-top: 90px;
+}
+.teem-item .card{}
+.teem-item .card img{
+    width: 130px;
+    height: auto;
+    margin-top: -70px;
+    margin-left: 25px;
+    margin-bottom: 15px;
+}
+.card-body .btn{
+    text-decoration: none;
+    margin-bottom: 20px;
+    border: none;
+}
+
+.card-body .card-text{
+    color: #767a87;
+    font-weight: 300;
+}
+
+
+/* Contact Section */
+
+.submit-form{
+    
+}
+
+
+
+/* Contact Section */
+.Contact-section{
+    background: #f9f9ff;
+}
